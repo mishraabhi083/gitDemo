@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void){
 	//universal truth
-	printf("Puja pagal hai\n");
+	printf("Abhi mahapagal hai\n");
 	return 0;
 }
